@@ -94,7 +94,7 @@
     "lodash": "^4.17.20",
     "markdownlint": "^0.22.0",
     "markdownlint-config-ali": "^0.1.1",
-    "markdownlint-rule-helpers": "^0.13.0",
+    "markdownlint-rule-helpers": "^0.15.0",
     "ora": "^5.1.0",
     "prettier": "^2.2.1",
     "strip-ansi": "^6.0.0",
